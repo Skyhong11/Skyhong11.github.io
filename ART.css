@@ -1,0 +1,50 @@
+h1 {
+    text-align: left;
+    font-size: 165px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(210, 176, 243);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h2 { 
+    text-align: center; 
+}
+
+p { 
+    text-align: center;
+}
+
+h3 {text-align: center;
+
+}
+
+.crush {display: block; margin: auto;}
+.crush{border: 3px solid rgb(210, 176, 243); width: fit-content; margin: auto;}
+.poop{ color: rgb(210, 176, 243);}
+
+li { text-align: center; margin: auto;
+
+}
