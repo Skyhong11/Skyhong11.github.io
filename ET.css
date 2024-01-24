@@ -1,0 +1,50 @@
+h1 {
+    text-align: left;
+    font-size: 165px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(210, 176, 243);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h2 { 
+     text-align: center ;
+     font-size: 40rpx;
+     color: rgb(210, 176, 243);
+
+}
+
+p {
+    text-align: center;
+    margin-top:5%
+}
+
+.social{border: 5px solid rgb(210, 176, 243);;width: fit-content; margin: auto;}
+.projects{ align-items: center;}
+.catapult{text-align: center;}
+.vexx{align-items: center; text-align: center;}
+.vex{border: 5px solid rgb(210, 176, 243);;width: fit-content; margin: auto; }
+
+ li{text-align: center; }
