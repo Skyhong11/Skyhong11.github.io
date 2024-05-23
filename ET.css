@@ -41,10 +41,33 @@ p {
     margin-top:5%
 }
 
-.social{border: 5px solid rgb(210, 176, 243);;width: fit-content; margin: auto;}
+.social{border: 5px solid rgb(210, 176, 243);;width: fit-content; margin: auto;  padding: 1rem;}
 .projects{ align-items: center;}
 .catapult{text-align: center;}
 .vexx{align-items: center; text-align: center;}
-.vex{border: 5px solid rgb(210, 176, 243);;width: fit-content; margin: auto; }
+.vex{border: 5px solid rgb(210, 176, 243);;width: fit-content; margin: auto;  padding: 1rem;}
+
 
  li{text-align: center; }
+
+ /* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: rgb(154, 21, 154);
+    }
+
+.hand{
+    align-items: center;
+    border: 5px solid rgb(210, 176, 243);
+    padding: 1rem;
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+    }
+
+.handd{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(184, 117, 250) ;
+}

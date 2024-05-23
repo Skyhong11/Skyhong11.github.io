@@ -29,47 +29,56 @@ li a {
     text-decoration: none;
 }
 
-h3{text-align: center; color: rgb(210, 176, 243);}
-h4{text-align: center;}
+
+p{text-align: center;}
 img{display: block; margin: auto;}
-img{border: 7px solid  rgb(210, 176, 243); }
 
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: rgb(154, 21, 154);
-    }
+background-color: rgb(154, 21, 154);
+}
 
+h2 { 
+    text-align: center ;
+    font-size: 40rpx;
+    color: rgb(210, 176, 243);
+}
+
+.science {
+    border: 3px solid rgb(210, 176, 243);
+    padding: 1rem ;
+    width: fit-content;
+    margin: auto;
+}
+
+.poster{
+    text-align: center;
+    color: black;
+}
+
+.rocky{
+    border: 3px solid rgb(210, 176, 243);
+    padding: 1rem;
+    width: fit-content;
+    margin: auto;
+}
+
+.candy{
+    text-align: center
+}
 
 body{
     background-color: rgb(184, 117, 250) ;
 }
 
-div{
-    background-color: rgb(221, 218, 218);
-    width: 300px;
-    padding: 50px;
-    text-align: center;
-    border-radius: 25px;
-    
-}
-
-h3 {
-    text-align: center;
-}
-
-h4{
-    text-align: center;
-}
-
-.footer{
+.slime{
+    border: 3px solid rgb(210, 176, 243);
+    padding: 1rem;
+    width: fit-content;
     margin: auto;
-    margin-bottom: 20px;
-    margin-top: 25px;
-
 }
 
-.hobby{
-    margin: auto;
-    margin-bottom: 20px;
+.sliime{
+    text-align: center;
 }

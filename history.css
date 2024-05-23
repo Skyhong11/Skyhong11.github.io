@@ -28,7 +28,9 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-img{float: right; margin-bottom: 300px;}
+
+p { text-align: center; margin: auto;
+}
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
@@ -38,3 +40,35 @@ li a:hover {
     body{
         background-color: rgb(184, 117, 250) ;
     }
+
+h2 {
+
+    text-align: center;
+    font-size: 40rpx;
+    color: rgb(210, 176, 243);
+}
+
+.maps { 
+
+    align-items: center;
+    border: 5px solid rgb(210, 176, 243);
+    width: fit-content;
+    margin: auto;
+    padding: 1rem;
+}
+
+.text{
+
+    text-align: center;
+
+}
+
+.castle{
+
+    align-items: center;
+    border: 5px solid rgb(210, 176, 243);
+    width: fit-content;
+    margin: auto;
+    padding: 1rem;
+
+}

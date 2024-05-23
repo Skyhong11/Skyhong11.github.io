@@ -41,10 +41,31 @@ h3 {text-align: center;
 
 }
 
-.crush {display: block; margin: auto;}
-.crush{border: 3px solid rgb(210, 176, 243); width: fit-content; margin: auto;}
-.poop{ color: rgb(210, 176, 243);}
+.crush
+ {display: block;
+ margin: auto;
+}
 
-li { text-align: center; margin: auto;
+.crush
+{border: 3px solid rgb(210, 176, 243);
+     width: fit-content;
+      margin: auto; 
+       padding: 1rem;
+    }
+.poop
+{ 
+    color: rgb(210, 176, 243);
+}
+
+li { text-align: center; margin: auto;  
 
 }
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: rgb(154, 21, 154);
+    }
+
+    body{
+        background-color: rgb(184, 117, 250) ;
+    }

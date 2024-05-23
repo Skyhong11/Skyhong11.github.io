@@ -29,3 +29,12 @@ li a {
     text-decoration: none;
 }
 img{align-items: flex-end;}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: rgb(154, 21, 154);
+    }
+
+    body{
+        background-color: rgb(184, 117, 250) ;
+    }
