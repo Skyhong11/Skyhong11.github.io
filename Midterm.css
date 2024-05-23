@@ -34,7 +34,6 @@ img{float: right; margin-bottom: 300px;}
 li a:hover {
     background-color: rgb(154, 21, 154);
     }
-
-    body{
-        background-color: rgb(184, 117, 250) ;
-    }
+body{
+    background-color: rgb(184, 117, 250) ;
+}
