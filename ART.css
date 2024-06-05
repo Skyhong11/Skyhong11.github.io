@@ -69,3 +69,23 @@ li a:hover {
     body{
         background-color: rgb(184, 117, 250) ;
     }
+
+.starr {
+
+    border: 3px solid rgb(210, 176, 243);
+    width: fit-content;
+     margin: auto; 
+      padding: 1rem;
+    align-items: center;
+    display: block;
+
+}
+
+
+.video { border: 3px solid rgb(210, 176, 243);
+    width: fit-content;
+     margin: auto; 
+      padding: 1rem;
+    align-items: center;
+     }
+
